@@ -33,5 +33,6 @@ npm start
 ```
 
 The Strapi server should now be running at http://localhost:1337
+
 The React app should now be running at http://localhost:3000
 
